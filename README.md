@@ -7,6 +7,8 @@ Git Repository- A git repo is where you save all your files for your project
 
 Git Commands: 
 
-git diff: will show you the difference between your file now and how it was at your last commit
+git diff: will show you the difference between your file now and how it was at your last commit.
+
+git config --global user.username <username>: add your Github username to your Git configuration. save it exactly the way you have it on Github (casing and alll) please ignore the (<>) just put your username. When your done you can use the (git config --global user.username) to check what you set in your Git config.
 
 
